@@ -4,10 +4,10 @@ function Navbar() {
       <h1>📋 Task Board Pro</h1>
 
       <div className="user">
-        <img
+        {/* <img
           src=""
           alt="user"
-        />
+        /> */}
         <span>Rishika</span>
       </div>
     </nav>
